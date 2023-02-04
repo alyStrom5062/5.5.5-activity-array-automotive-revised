@@ -103,7 +103,7 @@ console.log(v.make);
 //You can use the same instance "v" of the Vehicle class and dot notation to add properties of the Car class to it, but you should also create at least one totally new instance with just the Car class and test it out with Vehicle and Car methods (such as with v.make shown above).
 
 
-//Create new instances of the Car class and test them here:
+//Create at least two new instances of the Car class and test them here:
 
 
 
