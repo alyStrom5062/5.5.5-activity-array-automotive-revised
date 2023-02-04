@@ -48,7 +48,7 @@ class Vehicle {
 				this.stop();
 			}
 		} else {
-			alert("You need to start the engine first.");
+			console.log("You need to start the engine first.");
 		}
 	}
 	stop() {
